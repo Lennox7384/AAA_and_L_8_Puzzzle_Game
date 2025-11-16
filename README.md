@@ -22,7 +22,7 @@ As a team we complted the following major program functionalities:
 
 Here's a walkthrough of implemented features:
 
-[Watch the Video Walkthrough](https://imgur.com/a/YrrGSKp.mp4)
+[Watch the Video Walkthrough](https://imgur.com/a/Pqst6ME.mp4)
 
 GIF created with ...  
 
